@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">contestAssistant</string>
+
+    <string name="menu_start_contest">Начать контест</string>
+    <string name="menu_status">Статистика</string>
+
+    <string name="setting_contest_number_problems">Количество задач: </string>
+    <string name="setting_contest_time">Время контеста в минутах: </string>
+    <string name="setting_contest_name">Название контеста: </string>
+    <string name="setting_contest_start_but">Поехали!</string>
+
+    <string name="enter_error_problem_more">Задач слишком много!!</string>
+    <string name="enter_error_problem_zero">Нулевое число задач!!</string>
+    <string name="enter_error_time_more">Времени слишком много!!</string>
+    <string name="enter_error_time_zero">Нулевое время!!</string>
+
+    <string name="problem">Задача</string>
+
+    <string-array name="actions">
+        <item>Чтение</item>
+        <item>Разбор примеров</item>
+        <item>Решение</item>
+        <item>Проверка тестов</item>
+        <item>Написание кода</item>
+        <item>Отладка</item>
+        <item>Отправка</item>
+    </string-array>
+
+    <string name="m1">Чтение</string>
+    <string name="m2">Разбор примеров</string>
+    <string name="m3">Решение</string>
+    <string name="m4">Проверка тестов</string>
+    <string name="m5">Написание кода</string>
+    <string name="m6">Отладка</string>
+    <string name="m7">Отправка</string>
+
+    <string name="end_title">Контест завершился!</string>
+    <string name="end_title2">Вы хотите закончить контест?</string>
+    <string name="end_mes">Вы будете перемещены в главное меню</string>
+
+    <string name="sync">Синхронизация</string>
+    <string name="noname">Неизвестный</string>
+    
+    <string name="errorIOW">Ошибка записи в базу</string>
+    <string name="errorIOR">Ошибка чтения из базы</string>
+</resources>
